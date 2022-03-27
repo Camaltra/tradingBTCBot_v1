@@ -9,9 +9,9 @@ So the bot, every our, gonna make API call to get last 624 candles of the BTC ma
 <p>First, you have to create a file, named API_KEY.py, with your public and private API key from youre binance account (api_key and api_secret var name).</br>
 Then, from a server, just run the program. Be sure that the server will never stop</p>
 
-''''
+'''
 python3 tradingBot
-''''
+'''
 
 <h3>backtestingStrategies</h3>
 <p>File that regroup the backtesting strat that I use for my final bot, run on jupyter</p>
