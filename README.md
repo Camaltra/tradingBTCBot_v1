@@ -7,7 +7,7 @@ So the bot, every our, gonna make API call to get last 624 candles of the BTC ma
 
 <h2>How to use</h2>
 
-<p>First, make sure than pandas, numpy, matplotlib, regex is install in your computer</p>
+<p>First, make sure that pandas, numpy, matplotlib and regex are install in your computer</p>
 
 <p>Then, you have to create a file, named API_KEY.py, with your public and private API key from youre binance account (api_key and api_secret var name).</br>
 Then, from a server, just run the program (traidingBot.py file). Be sure that the server will never stop</p>
