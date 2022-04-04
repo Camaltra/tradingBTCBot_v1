@@ -6,14 +6,17 @@ So the bot, every our, gonna make API call to get last 624 candles of the BTC ma
 </p>
 
 <h2>How to use</h2>
-<p>First, you have to create a file, named API_KEY.py, with your public and private API key from youre binance account (api_key and api_secret var name).</br>
+
+<p>First, make sure than pandas, numpy, matplotlib, regex is install in your computer</p>
+
+<p>Then, you have to create a file, named API_KEY.py, with your public and private API key from youre binance account (api_key and api_secret var name).</br>
 Then, from a server, just run the program (traidingBot.py file). Be sure that the server will never stop</p>
 
 <h3>backtestingStrategies</h3>
 <p>File that regroup the backtesting strat that I use for my final bot, run on jupyter</p>
 
 <h3>tradingBot</h3>
-<p>The source code of the trading bot/p>
+<p>The source code of the trading bot</p>
 
 <h2>What I learned from this project</h2>
 <p>At the end, this bot will not be the most efficient that you could find, and also, it may not working as the result of the backtesting | IT'S NOT A FINNANCIAL ADVISE, IF YOU USE IT TO INVEST, IT'S ON YOURE ONW RISK | But this allow me to discover <b>pandas</b>, <b>Jupyter</b>, <b>matplotlib</b> and <b>work with an API</b>. It also put me into financial analyse, and see how create indicators and use it.</br>
